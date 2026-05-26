@@ -1,0 +1,186 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "vincib123@gmail.com",
+      "password": "$2b$10$hkp79dJim2IIeI./kfry5eWiGvxVZARCal9kSS0042OlfVxpoT1P6",
+      "created_at": "2026-05-25T16:24:40.902Z"
+    }
+  ],
+  "cv_files": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "filename": "Vinci Gabriella Baringbing-resume (4).pdf",
+      "file_path": "memory_storage",
+      "extracted_text": "VINCI GABRIELLA BARINGBING\n+62 821-8301-3168 | vincibaringbing07@gmail.com | www.linkedin.com/in/vinci-baringbing-b60689269 | https://\ngithub.com/baringbingv\nSilaen, Toba, Sumatera Utara\nThird-year Information Technology student at Institut Teknologi Del with hands-on experience in system analysis,\nUI/UX design, and web development. Skilled in MySQL, PgAdmin, and Laravel, with a strong passion for creating\nefficient digital solutions that improve user experience and overall productivity\nWork Experiences & Project\nDevelopment Of The U-NET Model With ResNet18 as a Backbone\nFor Website-Based Segmentation and Clasification Of Eye\nDiases - North Sumatera, Indonesia\nAug 2025 - Present\nDocumented project\nDocumented project workflow, model architecture, and dataset pipeline in a 3-member team over 6 months, ensuring clear and\nreproducible research documentation.\nApple Developer Academy @Infinite Learning Program -\nNongsa Digital Park Jl. Hang Lekiu No. KM 2, Sambau Nongsa,\nKota Batam Riau Island 29465\nJun 2025 - Jul 2025\nStudent Foundation/bootcamp\nApple Developer Academy @ Infinite Learning is committed to empower Indonesia's economy by creating world-class developers for the\nworld's most innovative and vibrant app ecosystem.\nBuilt a Swift-based mobile app that improved task efficiency by 90% using the Challenge-Based Learning framework.\nCollaborated in a 7-person team to design UI/UX prototypes and integrate features into the iOS application using SwiftUI.\nInformation System for D3 Information Technology Student\nAssociation - North Sumatera, Indonesia\nMar 2025 - Jun 2025\nProject Manager, Web Develop\nUsing Agile methodology in project development.\nDeveloping PHP–Laravel web applications and assisting with backend development.\nPerforming testing with Robot Framework and Katalon.\nMobile App D3 Information Technology Student Association -\nNorth Sumatera, Indonesia\nNov 2024 - Dec 2024\nSystem Analyst, Business Analyst\nAnalyzed user needs and business processes to design a system architecture using Flutter and MySQL, improving clarity and efficiency of\ndevelopment planning for 50+ members.\nDesign and Development Of The UD Marudut Tani Information\nSystem - North Sumatera, Indonesia\nFeb 2024 - May 2024\nSistem Analyst, Quality Assurance\nAnalyzed user and business requirements as a System Analyst, producing system specs that improved client visibility by 90%.\nEducation Level\nInstitut Teknologi Del - Sitoluama, kecamatan Laguboti, kabupaten Toba Samosir\n(Tobasa), Sumatera Utara\nAug 2023 - Sep 2026 (Expected)\nDiploma in information technology, 3.15/4.00\nState Senior High School 1 Laguboti - Laguboti, Kec. Laguboti, Toba, Sumatera\nUtara\nAug 2019 - May 2023\nSenior High School, Science Major\nOrganisational Experience\nHimpunan Mahasiswa Teknologi Informasi (HIMATIF) - Institut Teknologi Del, Sitoluama, Kec. Laguboti, Toba, Sumatera\nUtara 22381\nOct\n2024\nMember of the sports Committee\nCollaborated with 38 committee members to design event concepts and coordinate activity schedules and\nEngaged 60 new students in a one-day orientation, fostering teamwork and a sense of belonging.\nHimpunan Mahasiswa Teknologi Informasi (HIMATIF) - Institut Teknologi Del, Sitoluama, Kec. Laguboti, Toba,\nSumatera Utara 22381\nSep 2024 - Dec\n2025\n\n-- 1 of 2 --\n\nAssociation secretary\nManaged and documented over 10 official correspondences and 5 meetings, ensuring effective coordination between 20+ members.\nHimpunan Mahasiswa Teknologi Informasi (HIMATIF) - Institut Teknologi Del, Sitoluama, Kec. Laguboti, Toba, Sumatera\nUtara 22381\nOct\n2025\nMember of the sports Committee\nAssisted in organizing sports activities and managing equipment for 56 participants during the orientation program.\nSkills, Achievements & Other Experience\nCertificate : experience related sertificate\nHard Skills: HTML, CSS, JavaScript, PHP, Laravel, React.js, Next.js, Flutter, Dart, Swift, SwiftUI, MySQL, PostgreSQL, Figma,\nBalsamiq, Katalon, Minitab, UML, BPMN, Enterprise Architect, PowerDesigner, Visual Paradigm, StarUML, Trello, Git, GitHub, C\nLanguage, OOP\nSoft Skills: Leadership, Team Collaboration, Communication, Initiative, Organizational Involvement\nLanguage: Bahasa Indonesia (Native), English (Pre-Intermediate)\n\n-- 2 of 2 --\n\n",
+      "created_at": "2026-05-26T03:38:07.867Z"
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "filename": "Vinci_Gabriella_Baringbing_BusinessAnalyst.pdf",
+      "file_path": "memory_storage",
+      "extracted_text": "Vinci Gabriella\nBaringbing\nBusiness Analyst\nvincigbaringbing2@gmail.com\n082183013168\nMedan, North Sumatera\nvincib\nProfile\nI am a motivated Business Analyst\nintern with an interest in business\nanalysis \tand \trequirements\ngathering. I enjoy collaborating\nwith stakeholders to translate\nbusiness needs into clear,\nstructured requirements. I have\nstrong analytical and problem-\nsolving skills that support data-\ndriven decision-making.\nEducation\nDiploma III in Information\nTechnology, Institut Teknologi Del\n08/2023 – 09/2026\nLaguboti, Indonesia\nGPA: 3.25 / 4.00\nSkills\n•Requirements Gathering &\nAnalysis\n•Attention to detail\n•Documentation\n•SQL\nExperience & Project\nDevelopment Of The U-NET Model With ResNet18 as a\nBackbone For Website-Based Segmentation and\nClasification Of Eye Diases\n08/2025 – Present | Institut Teknologi Del\n•Documented project workflow, model architecture, and\ndataset pipeline in a 3-member team over 6 months,\nensuring clear and reproducible research documentation.\nApple Developer Academy @Infinite Learning Program\n06/2025 – 07/2025 | Kota Batam, Indonesia\n•Analyzed user needs and translated them into functional\nrequirements for a Swift-based mobile application using the\nChallenge-Based Learning framework.\n•Collaborated in a 7-person team to design UI/UXprototypes\nand integrate features into the iOSapplication using SwiftUI.\nInformation System for D3 Information Technology\nStudent Association\n03/2025 – 06/2025 | Institut Teknologi Del\n•Analyzed business and user requirements for the student\nassociation information system and translated them into\nclear functional specifications.\n•Collaborated with stakeholders and the development team\nto validate system requirements, support testing activities,\nand ensure alignment between business needs and system\nMobile App D3 Information Technology Student\nAssociation\n11/2024 – 12/2024 | Institut Teknologi Del\n•Analyzed user needs and business processes to define system\nrequirements and solution structure, improving clarity and\nefficiency of development planning\nDesign and Development Of The UD Marudut Tani\nInformation System\n02/2024 – 05/2024 | Institut Teknologi Del\n•Reviewed and validated user and business requirements to\nensure system specifications were clear, complete, and\naligned with business objectives.\n•Supported requirement validation and solution evaluation\nby ensuring system behavior met defined requirements,\nOrganisations\nInformation Technology Student Association, Secretary\n12/2025 – Present | Institut Teknologi Del\n•Managed and documented over 10 official correspondences\nand 5 meetings,\n•Ensuring effective coordination between 40 members.\n\n-- 1 of 1 --\n\n",
+      "created_at": "2026-05-26T03:42:27.226Z"
+    }
+  ],
+  "analysis_results": [
+    {
+      "id": 1,
+      "cv_file_id": 1,
+      "job_role": "product manager",
+      "ats_score": 78,
+      "suitability": "The candidate demonstrates strong foundational skills and early experience in project management, system analysis, and UI/UX design, making them a promising candidate for an entry-level or Associate Product Manager role. Their ability to analyze user needs and deliver quantifiable improvements (even in project contexts) is a significant asset. The explicit 'Project Manager' and 'Business Analyst' titles, coupled with Agile experience, are highly relevant.",
+      "keyword_analysis": {
+        "matching_keywords": [
+          "Project Manager",
+          "Agile methodology",
+          "System Analyst",
+          "Business Analyst",
+          "user needs",
+          "user experience",
+          "UI/UX design",
+          "UI/UX prototypes",
+          "business processes",
+          "requirements",
+          "team collaboration",
+          "leadership",
+          "communication",
+          "Figma",
+          "Balsamiq",
+          "Trello",
+          "Git",
+          "GitHub",
+          "system architecture",
+          "documentation"
+        ],
+        "missing_keywords": [
+          "product vision",
+          "product strategy",
+          "roadmap",
+          "market analysis",
+          "competitive analysis",
+          "customer segmentation",
+          "go-to-market",
+          "product launch",
+          "KPIs",
+          "data-driven decisions",
+          "A/B testing",
+          "user stories",
+          "backlog prioritization",
+          "stakeholder management",
+          "pricing",
+          "monetization"
+        ]
+      },
+      "skill_gap": {
+        "critical": [
+          "Product Strategy & Vision (defining long-term goals, market fit, competitive differentiation)",
+          "Roadmap Development & Prioritization (strategic sequencing of features, balancing trade-offs)",
+          "Market & Competitive Analysis (understanding the market landscape, competitor products, and industry trends)"
+        ],
+        "recommended": [
+          "Stakeholder Management (managing diverse groups, negotiation, expectation setting)",
+          "Data-driven Decision Making (using analytics to guide product decisions, A/B testing, interpreting data)",
+          "Customer Feedback Loop Implementation (structured gathering, analysis, and utilization of customer feedback)",
+          "Go-to-Market Strategy (planning product launches, marketing coordination, adoption strategies)",
+          "Defining and Tracking KPIs (beyond project-specific improvements, linking to business outcomes)"
+        ],
+        "matching": [
+          "Requirements Gathering & Analysis",
+          "UI/UX Understanding",
+          "Agile Project Management (execution aspects, sprint planning)",
+          "Cross-functional Team Collaboration",
+          "Technical Feasibility Understanding",
+          "Impact Measurement (basic level, e.g., efficiency/visibility improvements)",
+          "Problem Solving"
+        ]
+      },
+      "feedback": {
+        "structure": "The resume is generally well-structured and easy to read. However, consider moving the 'Summary' to the top, directly under contact information, and re-framing it to explicitly state your career objective for a Product Manager role. The 'Skills, Achievements & Other Experience' section could be broken down for clarity (e.g., 'Technical Skills,' 'Product & Design Tools,' 'Soft Skills'). The 'Certificate' entry is empty; either fill it with details or remove it.",
+        "content": "You have a strong technical foundation and valuable project management experience within a student context. To strengthen your profile for a Product Manager role, you need to shift the narrative from 'executing projects' to 'owning a product' and driving business value. Refocus your summary to clearly state your Product Management aspirations. For 'Project Manager,' 'System Analyst,' and 'Business Analyst' roles, elaborate on PM-specific activities such as 'identified user pain points,' 'prioritized backlog items based on user impact,' 'defined project scope and success metrics,' or 'managed cross-functional team communication to achieve product goals.' While 'improved efficiency' and 'client visibility' are excellent quantifiable achievements, try to explicitly connect them to broader business value or user adoption. Look for opportunities to introduce and explain how you've addressed missing PM keywords like 'stakeholder communication,' 'feature prioritization,' or 'user research findings,' even within your current project descriptions. Your 'Pre-Intermediate' English might be a hurdle for international PM roles; consider demonstrating higher proficiency if seeking such opportunities."
+      },
+      "created_at": "2026-05-26T03:38:07.868Z"
+    },
+    {
+      "id": 2,
+      "cv_file_id": 2,
+      "job_role": "business analyst",
+      "ats_score": 90,
+      "suitability": "Excellent fit for an entry-level or junior Business Analyst role. The candidate demonstrates a strong foundational understanding of BA principles and has practical experience in requirements gathering, analysis, stakeholder collaboration, and documentation, primarily within academic and project settings. The resume aligns well with core BA responsibilities.",
+      "keyword_analysis": {
+        "matching_keywords": [
+          "Business Analyst",
+          "Business Analysis",
+          "Requirements Gathering",
+          "Requirements Analysis",
+          "Requirements",
+          "Stakeholders",
+          "Business Needs",
+          "Functional Requirements",
+          "System Requirements",
+          "User Needs",
+          "Business Processes",
+          "Documentation",
+          "SQL",
+          "Analytical",
+          "Problem-solving",
+          "Data-driven",
+          "Collaboration",
+          "Specifications",
+          "Validation",
+          "Testing Activities",
+          "Solution structure",
+          "UI/UX"
+        ],
+        "missing_keywords": [
+          "Agile",
+          "Scrum",
+          "JIRA",
+          "Confluence",
+          "UML",
+          "Use Cases",
+          "User Stories",
+          "BRD",
+          "Process Modeling",
+          "Data Modeling",
+          "Data Visualization",
+          "Excel (Advanced)"
+        ]
+      },
+      "skill_gap": {
+        "critical": [
+          "None, for an entry-level position. However, for a more competitive or mid-level role, understanding of Agile/Scrum methodologies would be crucial."
+        ],
+        "recommended": [
+          "Agile/Scrum Methodologies (understanding of sprints, backlogs, ceremonies)",
+          "Project Management Tools (e.g., JIRA, Confluence, Trello)",
+          "Business Process Modeling (e.g., BPMN diagrams)",
+          "Data Visualization Tools (e.g., Tableau, Power BI)",
+          "Advanced Excel for data manipulation and reporting",
+          "Explicit mention of User Stories and Use Cases development",
+          "Facilitation skills (leading workshops, meetings for requirements elicitation)"
+        ],
+        "matching": [
+          "Requirements Gathering & Analysis",
+          "Stakeholder Collaboration",
+          "Documentation",
+          "SQL (foundational)",
+          "Analytical Skills",
+          "Problem-Solving",
+          "Attention to Detail",
+          "Requirements Validation",
+          "Functional Specification Development (implied)",
+          "Basic UI/UX understanding",
+          "Teamwork"
+        ]
+      },
+      "feedback": {
+        "structure": "The resume has a clear and logical structure with appropriate headings (Profile, Education, Skills, Experience & Project, Organisations). The use of bullet points effectively breaks down information, improving readability. The 'Experience & Project' section is well-suited for an intern/junior candidate, showcasing relevant academic and project-based work. Contact information is clearly presented. The overall layout is clean and professional.",
+        "content": "The content is strong for an entry-level Business Analyst. The 'Profile' clearly states the candidate's ambition and highlights key BA interests and skills. The 'Experience & Project' section is particularly impressive, demonstrating hands-on involvement in core BA activities such as analyzing user/business needs, translating them into requirements, collaborating with stakeholders, and supporting testing. The use of action verbs is effective.\n\nTo further strengthen the resume, consider the following:\n1.  **Quantify Impact:** Where possible, quantify the outcomes or impact of your project contributions. For example, 'improving clarity and efficiency of development planning' could be followed by 'leading to X% reduction in rework' or 'accelerated project delivery by Y weeks,' even if estimated. \n2.  **Tools and Methodologies:** Explicitly mention any specific BA tools (e.g., Lucidchart, Miro, Figma for UI/UX, Microsoft Office Suite beyond basic) or methodologies (e.g., Agile, Waterfall) used, even in academic settings. This demonstrates practical exposure.\n3.  **SQL Application:** For the SQL skill, briefly describe how it was applied in projects if applicable (e.g., 'Utilized SQL to extract and analyze data for initial requirement gathering').\n4.  **Project Context:** For each project in 'Experience & Project,' a brief, one-line summary of the project's overall goal or purpose before the bullet points would provide better context.\n5.  **Soft Skills Demonstration:** While 'Attention to detail' is listed, try to weave examples of this into your project descriptions rather than just listing it. Your 'Documentation' bullet in the U-NET project does this well already."
+      },
+      "created_at": "2026-05-26T03:42:27.227Z"
+    }
+  ]
+}
